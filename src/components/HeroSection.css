@@ -1,0 +1,29 @@
+.hero-section {
+    text-align: center;
+    padding: 100px 20px;
+}
+
+.club-name {
+    font-size: 3rem;
+    color: #00aaff;
+}
+
+.tagline {
+    font-size: 1.5rem;
+    color: #ffffff;
+    margin-top: 10px;
+}
+
+.hero-description {
+    color: #b3b3b3;
+    margin-top: 20px;
+}
+
+.hero-buttons .btn {
+    margin: 10px;
+    padding: 10px 20px;
+    color: #fff;
+    background-color: #00aaff;
+    border: none;
+    cursor: pointer;
+}

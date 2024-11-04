@@ -1,0 +1,23 @@
+.projects-section {
+    background-color: #121212;
+    padding: 60px 20px;
+    text-align: center;
+}
+
+.projects-grid {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.project-card {
+    background-color: #1f1f1f;
+    color: #fff;
+    padding: 20px;
+    width: 250px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    text-align: left;
+    cursor: pointer;
+}

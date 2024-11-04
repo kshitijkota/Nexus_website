@@ -1,0 +1,14 @@
+.event-section {
+    padding: 60px 20px;
+    background-color: #1a1a1a;
+    text-align: center;
+}
+
+.event-section h2 {
+    font-size: 2rem;
+    color: #00aaff;
+}
+
+.event-section p {
+    color: #ccc;
+}

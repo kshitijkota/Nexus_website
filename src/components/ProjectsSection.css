@@ -1,0 +1,42 @@
+.projects-section {
+    padding: 60px 20px;
+    background-color: #0d0d0d;
+    text-align: center;
+}
+
+.projects-section h2 {
+    font-size: 2rem;
+    color: #00aaff;
+}
+
+.projects-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.project-card {
+    background-color: #1a1a1a;
+    padding: 20px;
+    border-radius: 10px;
+    width: 250px;
+    color: #fff;
+    transition: transform 0.3s;
+}
+
+.project-card h3 {
+    color: #00aaff;
+}
+
+.project-card:hover {
+    transform: scale(1.05);
+}
+
+.project-type {
+    display: inline-block;
+    margin-top: 10px;
+    color: #aaa;
+    font-size: 0.9rem;
+}
